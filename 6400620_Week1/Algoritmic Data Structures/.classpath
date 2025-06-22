@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="01 Inventory Management System"/>
+	<classpathentry kind="src" path="02 Ecommerce Platform Search Function"/>
+	<classpathentry kind="src" path="03 Sorting Customer Orders"/>
+	<classpathentry kind="src" path="04 Employee Management System"/>
+	<classpathentry kind="src" path="05 Task Management System"/>
+	<classpathentry kind="src" path="06 Library Management System"/>
+	<classpathentry kind="src" path="07 Financial Forecasting"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
